@@ -1,0 +1,32 @@
+/* Adicione seus estilos personalizados aqui */
+nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.flash {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.flash.success {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.flash.danger {
+    background-color: #f44336;
+    color: white;
+}
