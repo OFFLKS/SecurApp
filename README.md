@@ -14,7 +14,7 @@ Este é um protótipo de aplicativo web que permite aos usuários criarem contas
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu_usuario/crime_report_app.git
+    git clone [https://github.com/OFFLKS/SecurApp.git]
     ```
 2. Navegue até o diretório do projeto:
     ```sh
