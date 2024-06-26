@@ -18,7 +18,7 @@ Este é um protótipo de aplicativo web que permite aos usuários criarem contas
     ```
 2. Navegue até o diretório do projeto:
     ```sh
-    cd crime_report_app
+    cd SecurApp
     ```
 3. Crie e ative um ambiente virtual:
     ```sh
